@@ -1,0 +1,1 @@
+{"Truck": 1212, "Car": 28744, "Cyclist": 1784, "Misc": 1272, "Pedestrian": 4560, "Van": 3232, "Tram": 574, "Person_sitting": 332}

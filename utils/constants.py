@@ -1,0 +1,13 @@
+sample_method = 'none'
+sample_rate = '1.0'
+model_name = 'none'
+feature_model = 'pointnet2'
+dataset = 'kitti'
+counter = 0
+instance_point_dict = {} #{'car': [#before, #after]}
+instance_count_dict = {} #{'car': count} count the number of item appear in the dataset
+instance_xyz_dict = {} # {'car':[u_x, u_y, u_z]}, u represented the unique number of points
+total_points = 0
+file_names = []
+empty_keys = []
+nb_dict = {}
